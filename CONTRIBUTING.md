@@ -1,2 +1,1 @@
-dear community, 
-you can contribute this project to boost how ai will excel human.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
